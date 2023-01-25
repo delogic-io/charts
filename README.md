@@ -1,3 +1,5 @@
+[![Release Pipeline](https://github.com/delogic-io/charts/actions/workflows/release.yml/badge.svg)](https://github.com/delogic-io/charts/actions/workflows/release.yml)
+
 # Delogic Helm chart Library for Kubernetes
 
 Aapplications, provided by [Delogic](https://delogic.io), ready to launch on Kubernetes using [Kubernetes Helm](https://github.com/helm/helm).
@@ -9,6 +11,8 @@ $ helm repo add delogic https://charts.delogic.io/delogic
 $ helm search repo delogic
 $ helm install my-release delogic/<chart>
 ```
+
+## Before you begin
 
 ### Prerequisites
 
