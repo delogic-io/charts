@@ -1,14 +1,14 @@
 [![Release Pipeline](https://github.com/delogic-io/charts/actions/workflows/release.yaml/badge.svg)](https://github.com/delogic-io/charts/actions/workflows/release.yaml)
 [![Lint and Test Pipeline](https://github.com/delogic-io/charts/actions/workflows/lint-test.yaml/badge.svg)](https://github.com/delogic-io/charts/actions/workflows/lint-test.yaml)
 
-# Delogic Helm chart Library for Kubernetes
+# Delogic Helm chart library for Kubernetes
 
 Aapplications, provided by [Delogic](https://delogic.io), ready to launch on Kubernetes using [Kubernetes Helm](https://github.com/helm/helm).
 
 ## TL;DR
 
 ```bash
-$ helm repo add delogic https://charts.delogic.io/delogic
+$ helm repo add delogic https://charts.delogic.io
 $ helm search repo delogic
 $ helm install my-release delogic/<chart>
 ```
@@ -30,7 +30,7 @@ To install Helm, refer to the [Helm install guide](https://github.com/helm/helm#
 The following command allows you to download and install all the charts from this repository:
 
 ```bash
-$ helm repo add delogic https://charts.delogic.io/delogic
+$ helm repo add delogic https://charts.delogic.io
 ```
 
 ### Using Helm
