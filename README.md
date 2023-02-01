@@ -4,7 +4,7 @@
 
 # Delogic Helm chart library for Kubernetes
 
-Applications, provided by [Delogic](https://delogic.io), ready to launch on Kubernetes using [Kubernetes Helm](https://github.com/helm/helm).
+Applications, ready to launch on Kubernetes using [Kubernetes Helm](https://github.com/helm/helm).
 
 ## TL;DR
 
